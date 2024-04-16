@@ -261,5 +261,3 @@ colours = ['red', 'yellow', 'green', 'white', 'black', 'blue', 'purple']
 
 for colour in colours:
   print("Thread shed sold {0} threads of {1} thread today today".format(colour_count(colour), colour))
-
-
